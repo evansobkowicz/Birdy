@@ -85,6 +85,7 @@ img.Emoji {
 
 img.twitter-hashflag {
 	max-height: 12px;
+	max-width: 12px;
 	padding-left: 3px;
 }
 
