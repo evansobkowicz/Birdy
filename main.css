@@ -83,6 +83,11 @@ img.Emoji {
   width: 20px;
 }
 
+img.twitter-hashflag {
+	max-height: 12px;
+	padding-left: 3px;
+}
+
 .attribution p {
 	color: white;
 	font-size: 14px;
